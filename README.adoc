@@ -1,2 +1,5 @@
 # springbootcamp-vavr
 Playing around with the vavr &amp; kotlin
+
+
+see http://www.vavr.io/
