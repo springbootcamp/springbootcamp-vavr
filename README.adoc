@@ -2,4 +2,4 @@
 Playing around with the vavr &amp; kotlin
 
 
-see http://www.vavr.io/
+see http://www.vavr.io/ and http://www.vavr.io/vavr-docs/
