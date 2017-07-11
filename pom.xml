@@ -38,6 +38,12 @@
 			<version>0.9.0</version>
 		</dependency>
 
+    <dependency>
+      <groupId>org.immutables.vavr</groupId>
+      <artifactId>vavr</artifactId>
+      <version>0.4.0</version>
+    </dependency>
+
     <!--dependency>
       <groupId>io.github.anand1st</groupId>
       <artifactId>sshd-shell-spring-boot-starter</artifactId>
